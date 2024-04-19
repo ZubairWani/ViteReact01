@@ -1,1 +1,1 @@
-Practicing props on different Cards
+Practicing props using vite build tool
